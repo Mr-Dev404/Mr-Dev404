@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">A programmer and accountant :)</h3>
-<img align="right alt="Mr-Dev404" width="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
+<img align="right" alt="Mr-Dev404" width="200" src="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-dev404&label=Profile%20views&color=0e75b6&style=flat" alt="mr-dev404" /> </p>
 
